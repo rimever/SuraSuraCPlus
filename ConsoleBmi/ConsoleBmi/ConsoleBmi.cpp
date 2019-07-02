@@ -3,7 +3,10 @@
 
 #include <iostream>
 #include <iomanip>
+#include "getBmi.h"
 using namespace std;
+
+
 
 int main()
 {
@@ -17,8 +20,7 @@ int main()
 	cout << "体重(kg)を入力してください:";
 	cin >> weight;
 
-	height = height / 100;
-	bmi = weight / height / height;
+	bmi = getBmi(height, weight);
 
     std::cout << "あなたのBMIは、" << fixed << setprecision(1) << bmi << "です。" << endl;
 	return 0;

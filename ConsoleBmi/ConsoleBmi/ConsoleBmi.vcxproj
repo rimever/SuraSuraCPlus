@@ -152,6 +152,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleBmi.cpp" />
+    <ClCompile Include="getBmi.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="getBmi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
