@@ -1,0 +1,3 @@
+/Users/rim/CLionProjects/list8_18/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rim/CLionProjects/list8_18/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rim/CLionProjects/list8_18/cmake-build-debug/CMakeFiles/list8_18.dir

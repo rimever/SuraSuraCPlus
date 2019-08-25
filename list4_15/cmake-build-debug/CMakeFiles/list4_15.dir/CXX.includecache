@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rim/CLionProjects/list4_15/chapter4.h
+string
+-
+
+/Users/rim/CLionProjects/list4_15/main.cpp
+iostream
+-
+string
+-
+chapter4.h
+/Users/rim/CLionProjects/list4_15/chapter4.h
+

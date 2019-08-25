@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rim/CLionProjects/list7_22/Point.cpp
+Point.h
+/Users/rim/CLionProjects/list7_22/Point.h
+
+/Users/rim/CLionProjects/list7_22/Point.h
+istream
+-
+
+/Users/rim/CLionProjects/list7_22/main.cpp
+iostream
+-
+Point.h
+/Users/rim/CLionProjects/list7_22/Point.h
+

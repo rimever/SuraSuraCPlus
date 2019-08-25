@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rim/CLionProjects/list6_7/Account.cpp
+Account.h
+/Users/rim/CLionProjects/list6_7/Account.h
+
+/Users/rim/CLionProjects/list6_7/Account.h
+string
+-
+

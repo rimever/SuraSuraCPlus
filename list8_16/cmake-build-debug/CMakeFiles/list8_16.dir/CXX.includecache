@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rim/CLionProjects/list8_16/MyCircle.cpp
+MyCircle.h
+/Users/rim/CLionProjects/list8_16/MyCircle.h
+
+/Users/rim/CLionProjects/list8_16/MyCircle.h
+
+/Users/rim/CLionProjects/list8_16/main.cpp
+iostream
+-
+MyCircle.h
+/Users/rim/CLionProjects/list8_16/MyCircle.h
+

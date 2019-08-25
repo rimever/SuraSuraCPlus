@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rim/CLionProjects/list4_8/main.cpp
+iostream
+-
+quadEq.h
+/Users/rim/CLionProjects/list4_8/quadEq.h
+
+/Users/rim/CLionProjects/list4_8/quadEq.cpp
+iostream
+-
+cmath
+-
+
+/Users/rim/CLionProjects/list4_8/quadEq.h
+

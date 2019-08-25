@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rim/CLionProjects/list6_10/Counter.cpp
+Counter.h
+/Users/rim/CLionProjects/list6_10/Counter.h
+
+/Users/rim/CLionProjects/list6_10/Counter.h
+
+/Users/rim/CLionProjects/list6_10/CounterEx.cpp
+CounterEx.h
+/Users/rim/CLionProjects/list6_10/CounterEx.h
+
+/Users/rim/CLionProjects/list6_10/CounterEx.h
+Counter.h
+/Users/rim/CLionProjects/list6_10/Counter.h
+
+/Users/rim/CLionProjects/list6_10/main.cpp
+iostream
+-
+CounterEx.h
+/Users/rim/CLionProjects/list6_10/CounterEx.h
+

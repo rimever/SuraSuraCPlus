@@ -1,0 +1,3 @@
+/Users/rim/CLionProjects/list10_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rim/CLionProjects/list10_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rim/CLionProjects/list10_4/cmake-build-debug/CMakeFiles/list10_4.dir

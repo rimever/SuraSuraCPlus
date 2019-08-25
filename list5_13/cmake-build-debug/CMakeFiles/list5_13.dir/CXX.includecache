@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rim/CLionProjects/list5_13/HealthChecker.cpp
+HealthChecker.h
+/Users/rim/CLionProjects/list5_13/HealthChecker.h
+
+/Users/rim/CLionProjects/list5_13/HealthChecker.h
+string
+-
+
+/Users/rim/CLionProjects/list5_13/main.cpp
+iostream
+-
+HealthChecker.h
+/Users/rim/CLionProjects/list5_13/HealthChecker.h
+

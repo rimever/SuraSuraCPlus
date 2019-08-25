@@ -1,0 +1,1 @@
+double getAverage(const int *a, int length);

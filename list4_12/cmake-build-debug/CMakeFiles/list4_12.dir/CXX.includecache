@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rim/CLionProjects/list4_12/chapter4.h
+
+/Users/rim/CLionProjects/list4_12/getAverage.cpp
+
+/Users/rim/CLionProjects/list4_12/main.cpp
+iostream
+-
+chapter4.h
+/Users/rim/CLionProjects/list4_12/chapter4.h
+

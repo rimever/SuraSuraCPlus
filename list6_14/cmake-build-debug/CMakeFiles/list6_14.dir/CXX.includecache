@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rim/CLionProjects/list6_14/Counter.h
+
+/Users/rim/CLionProjects/list6_14/main.cpp
+iostream
+-
+Counter.h
+/Users/rim/CLionProjects/list6_14/Counter.h
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rim/CLionProjects/list8_10/getCircleArea.h
+
+/Users/rim/CLionProjects/list8_10/main.cpp
+iostream
+-
+getCircleArea.h
+/Users/rim/CLionProjects/list8_10/getCircleArea.h
+
